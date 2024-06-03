@@ -1,6 +1,11 @@
 package demo;
 
 public class App {
+	
+	public void login()
+	{   //Login Functionality added
+		System.out.println("login---Method");
+	}
 
 	public void register() {
 		// register Functionality Added
