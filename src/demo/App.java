@@ -12,6 +12,8 @@ public class App {
 		System.out.println("register --method");
 	}
 
+	int i=10; 
+
 	public static void main(String[] args) {
 		System.out.println("main--Start");
 
